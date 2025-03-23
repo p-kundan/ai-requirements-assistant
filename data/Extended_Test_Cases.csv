@@ -1,0 +1,16 @@
+TC_ID,Description
+TC-001,Test if the system can autonomously navigate through intersections with traffic lights and pedestrians.
+TC-002,Test if the system detects surrounding vehicles and adjusts speed or lane position when necessary.
+TC-003,Check if the system provides real-time alerts for any malfunctions or detected obstacles.
+TC-004,Verify that the system can smoothly switch between highway and urban driving modes.
+TC-005,Test if the system can autonomously park in both parallel and perpendicular spaces.
+TC-006,Test if the system can autonomously merge onto highways without driver intervention.
+TC-007,Check if the system can detect emergency vehicles and yield the right-of-way.
+TC-008,Verify that the system optimizes fuel efficiency during autonomous driving by adjusting speed as needed.
+TC-009,Test if the system can navigate through construction zones or road closures autonomously.
+TC-010,"Test if the system can safely navigate through adverse weather conditions (e.g., rain, snow, fog)."
+TC-011,Test if the system provides real-time route suggestions based on current traffic conditions.
+TC-012,Verify if the system alerts the driver when the vehicle deviates from its lane or road boundaries.
+TC-013,Test if the system allows the driver to customize driving preferences and settings.
+TC-014,Verify if the system sends maintenance or update notifications to the driver.
+TC-015,Check if the system can detect pedestrians and cyclists and avoid collisions.

@@ -1,0 +1,16 @@
+SR_ID,Description
+SR-001,"The system must allow the vehicle to autonomously navigate through urban environments, including intersections, traffic lights, and pedestrians."
+SR-002,"The vehicle should be able to detect and respond to other vehicles in its vicinity, including adjusting speed and lane position when necessary."
+SR-003,"The system must provide real-time feedback to the driver regarding the vehicle’s current status, including any system malfunctions or alerts."
+SR-004,The system should work efficiently in both highway driving and urban environments with minimal human intervention.
+SR-005,The vehicle must be able to perform autonomous parking in both parallel and perpendicular spaces.
+SR-006,The system should enable the vehicle to autonomously merge onto highways when there is a gap in traffic.
+SR-007,"The system must detect and respond to emergency vehicles (e.g., sirens, flashing lights) in its vicinity."
+SR-008,"The system should optimize fuel efficiency while driving autonomously, adjusting speed as needed."
+SR-009,The vehicle must be able to navigate through construction zones or road closures autonomously.
+SR-010,"The system must ensure that the vehicle can handle adverse weather conditions (e.g., rain, snow, fog)."
+SR-011,The system should provide real-time route suggestions based on traffic conditions.
+SR-012,The system must alert the driver if the vehicle is deviating from its lane or road boundaries.
+SR-013,"The system should allow the driver to customize driving preferences, including speed limits and comfort settings."
+SR-014,The system must provide notifications for system maintenance or updates.
+SR-015,The vehicle must be able to detect pedestrians and cyclists and respond accordingly to avoid collisions.

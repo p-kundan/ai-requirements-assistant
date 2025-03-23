@@ -1,0 +1,16 @@
+SYSR_ID,Description
+SYSR-001,"The system shall enable the vehicle to detect traffic lights, stop signs, pedestrians, and other obstacles to navigate intersections autonomously."
+SYSR-002,"The system shall use radar, cameras, and LIDAR to monitor surrounding vehicles and adjust the speed or lane position to avoid collisions."
+SYSR-003,"The system shall include a driver-facing display that provides real-time information about system status, including alerts for malfunctions, sensor failures, or obstacles detected."
+SYSR-004,"The system shall switch seamlessly between highway and urban driving modes, adjusting driving behavior according to traffic patterns and road conditions."
+SYSR-005,The system shall use sensors and cameras to detect available parking spaces and perform autonomous parking.
+SYSR-006,The system shall use advanced algorithms to enable autonomous merging onto highways with minimal intervention from the driver.
+SYSR-007,The system shall detect emergency vehicles by identifying sirens and flashing lights and automatically yield the right-of-way.
+SYSR-008,The system shall optimize the vehicle’s speed and driving patterns to maximize fuel efficiency while maintaining safety.
+SYSR-009,The system shall use real-time mapping data to navigate construction zones or road closures autonomously.
+SYSR-010,"The system shall use weather detection sensors and adjust driving behavior to maintain safety during adverse conditions (e.g., rain, snow, fog)."
+SYSR-011,The system shall provide route suggestions to the driver based on current traffic conditions and alternative routes.
+SYSR-012,The system shall use lane-keeping assist technology to prevent the vehicle from deviating from the lane or road boundaries.
+SYSR-013,"The system shall allow the driver to adjust vehicle preferences, including speed limits, comfort, and driving behavior through the interface."
+SYSR-014,The system shall alert the driver when maintenance is required or when an update is available for the vehicle’s software.
+SYSR-015,"The system shall detect pedestrians and cyclists through the use of cameras, LIDAR, and radar and respond to prevent potential collisions."
