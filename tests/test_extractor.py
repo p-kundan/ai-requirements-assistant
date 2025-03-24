@@ -19,7 +19,7 @@ if os.path.exists(data_path):
     requirements = extract_requirements(data_path)
     print(f"\n✅ Extracted {len(requirements)} requirements.")
 
-    # 🧠 LLM Classification
+    # 🧠 LLM Classifications
     print("\n🔮 Classifying with LLM (LangChain + llama-cpp-python):\n")
 
     for i, req in enumerate(requirements[:5]):  # show first 5
@@ -32,3 +32,4 @@ if os.path.exists(data_path):
 
 else:
     print(f"\n❌ File not found at: {data_path}")
+  
