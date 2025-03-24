@@ -66,7 +66,9 @@ reqAI/
 
 ## 📸 Screenshots
 
-![UI Screenshot](./demo/ui_screenshot.png)
+![UI Screenshot](.\data\demo\image.png)
+![UI Screenshot](.\data\demo\image0.png)
+![UI Screenshot](.\data\demo\image2.png)
 
 ---
 
